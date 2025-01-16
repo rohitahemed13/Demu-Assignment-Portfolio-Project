@@ -136,7 +136,6 @@ footer{
 
 display: flex;
 width:70%;
-border: 1px solid;
 justify-content: center;
 padding: 30px;
 text-align: center;
@@ -159,12 +158,18 @@ margin-top: 48px;
    width: 100%;
   margin: 0 auto;
    height: 60vh;
-   border: 1px solid;
+   /* border: 1px solid; */
    margin-top: 49px;
    background-image:url(../assets/handshake.jpg);
    background-repeat: no-repeat;
    border-radius: 20px;
-   background-position:;
+   background-position:center;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   background-color: rgba(0, 0, 0, 0.2);
+   
+   
  }
 .why-dev-container{
     margin-top: 30px;
@@ -193,6 +198,7 @@ input{
     padding: 15px 20px;
     margin-top: 10px;
     border-radius: 10px;
+    margin-bottom: 20px;
 }
 .inspire-1{
     width: 70%;
@@ -203,6 +209,7 @@ input{
     padding: 20px;
     margin-top: 20px;
     border-radius: 20px;
+    border: none;
 }
 
  
