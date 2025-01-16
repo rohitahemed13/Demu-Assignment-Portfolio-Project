@@ -102,7 +102,7 @@ main{
     margin: 20px;
 }
 .target-current{
-    margin-top: 80px;
+    margin-top: 30px;
 }
 .html-box{
     background-color:  rgba(255, 76, 30, 0.05);
@@ -114,7 +114,7 @@ main{
     background-color: #FFFDF2;
 }
 .next-target{
-    margin-top: 80px;
+    margin-top: 30px;
 }
 .sr{
  /* margin-top: 15px; */
@@ -190,8 +190,23 @@ margin-top: 48px;
 .btn-n:hover{
     background-color: green;
 }
+.my-inspire{
+    margin-top: 30px;
+}
 input{
     padding: 15px 20px;
     margin-top: 10px;
     border-radius: 10px;
 }
+.inspire-1{
+    width: 70%;
+    height: 60vh;
+    border: 1px solid;
+    margin: 0 auto;
+    background-color:white;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 20px;
+}
+.hello{
+ 
