@@ -194,6 +194,7 @@ margin-top: 48px;
 .my-inspire{
     margin-top: 30px;
 }
+
 input{
     padding: 15px 20px;
     margin-top: 10px;
@@ -212,5 +213,5 @@ input{
     margin-top: 20px;
     border-radius: 20px;
     border: none;
-   
+   position: relative;
 }
